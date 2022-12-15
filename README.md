@@ -1,6 +1,8 @@
 # 👋 Hi, I’m Aravinth Bhoopathi
 * 🌱 I’m currently learning Full Stack Web Development at MERN Stack
 
+## Skils
+
 
 <!---
 Aravinth-Bhoopathi/Aravinth-Bhoopathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
