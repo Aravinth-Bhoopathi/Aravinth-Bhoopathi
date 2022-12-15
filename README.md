@@ -1,7 +1,15 @@
 # 👋 Hi, I’m Aravinth Bhoopathi
 * 🌱 I’m currently learning Full Stack Web Development at MERN Stack
 
-## Skils
+## Skills 
+### Programming Language 
+* JavaScript 
+### Front End Technologies 
+* HTML | CSS | React JS | Redux | Bootstrap
+### Back End Technologies 
+* Node Js | Express JS
+### DataBase 
+* MongoDB
 
 
 <!---
