@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Aravinth Bhoopathi
 * 🌱 I’m currently learning Full Stack Web Development at MERN Stack
 
-## Skills 
+## 🌱 Skills 
 ### Programming Language 
 * JavaScript 
 ### Front End Technologies 
@@ -13,7 +13,7 @@
 ### Tools 
 * VS Code | Postman
 
-## Connect with me 
+## 📫 Connect with me 
 * Email - aravinth.engineer2018@gmail.com
 * LinkedIn - https://www.linkedin.com/in/aravinth-bhoopathi-b-504909240/
 
