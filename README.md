@@ -7,11 +7,11 @@
 ### Front End Technologies 
 * HTML | CSS | React JS | Redux | Bootstrap
 ### Back End Technologies 
-* Node Js | Express JS
+* Node JS | Express JS
 ### DataBase 
 * MongoDB
 ### Tools 
-* Visual Studio Code | Postman
+* VS Code | Postman
 
 ## Connect with me 
 * Email - aravinth.engineer2018@gmail.com
